@@ -68,5 +68,5 @@ int main() {
 
 
 
-##Result:
+## Result:
 The program successfully demonstrates multiple inheritance with protected access specifier to calculate the net amount payable after applying a discount on the original bill.
