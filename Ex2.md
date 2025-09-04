@@ -96,6 +96,6 @@ int main()
 
 
 
-##Result:
+## Result:
 The program successfully uses multilevel inheritance to check if a student has passed and displays their grade according to their average marks.
 
