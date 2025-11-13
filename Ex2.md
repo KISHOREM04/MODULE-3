@@ -1,7 +1,7 @@
 # Ex.No:2
 # Ex.Name: write a program to check whether student is passed the exam and display their grades using Multilevel inheritance?
 (check if average > 90  grade=s,average >80 and less than equal to 90 A+ grade,average>70 and less than equal to 80 A grade,average 60 to 70 b grade,average is 50 to 59 C grade otherwise fail)
-## Date:
+## Date: 21/08/2025
 ## Aim:
 To write a C++ program using multilevel inheritance to check whether a student has passed the exam and display their grade based on the average marks.
 
