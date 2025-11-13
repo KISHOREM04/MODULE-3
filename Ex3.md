@@ -1,7 +1,7 @@
 # Ex.No:3
 # Ex.Name: Write a C++ program to find the circumference of a circle using simple inheritance.
 (Give private access of a base class to derived class. calculate the cube value using a member function of a base class and display the result using a member function of a derived class)
-## Date:
+## Date: 21/08/2025
 ## Aim:
 To write a C++ program to find the circumference of a circle using simple inheritance, where the radius is taken as a private member in the base class, cube value is calculated using a base class function, and the circumference is displayed using a derived class function.
 
