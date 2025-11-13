@@ -1,7 +1,7 @@
 # Ex.No:5
 # Ex.Name: Write a C++ program to illustrate Discount Based Multiple inheritance with protected access specifier, find the amount payable after discount.
 ( Declare a base class to get original bill amount, another base class to get discount amount , declare a offer derived class to call the functions from two base classes and perform calculation)
-## Date:
+## Date: 21/08/2025
 ## Aim:
 To write a C++ program to illustrate discount calculation using multiple inheritance with protected access specifier, and find the amount payable after applying the discount.
 
